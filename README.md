@@ -1,7 +1,4 @@
 ## Oiii eu sou o Henrik Hopkins, amante de programação, hacking, mentalismo!
-
-(https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="magicko-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="magicko-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
