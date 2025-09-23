@@ -4,6 +4,13 @@
 
 Me chamo Luiz Henrik, tenho 21 anos e sou natural de Cuiabá. com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFATEIE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Luiz Henrik | O'Magicko](https://www.youtube.com/@omagicko)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Krump Buug](https://www.instagram.com/krumpbuug?igsh=dGU5aWRrNWY1OXc2)".
 
+<br/>
+
+## 📲 Contact me
+  <a href = "mailto:otiohenrik@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luiz-henrik-b11752381" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   
+<br/>
 
 ### 🤖 Linguagens e Tecnologias
 
