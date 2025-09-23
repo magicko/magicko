@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Luiz Henrik, tenho 21 anos e sou natural de Cuiabá. com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFATEIE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Luiz Henrik | O'Magicko](https://www.youtube.com/@omagicko)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Krump Buug](https://www.instagram.com/krumpbuug?igsh=dGU5aWRrNWY1OXc2)".
+Me chamo Luiz Henrik, tenho 21 anos e sou natural de Cuiabá. com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFATEIE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Luiz Henrik | O'Magicko](https://www.youtube.com/@omagicko)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado
+"[Krump Buug](https://www.instagram.com/krumpbuug?igsh=dGU5aWRrNWY1OXc2)".
 
 <br/>
 
